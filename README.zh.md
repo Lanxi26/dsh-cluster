@@ -77,3 +77,7 @@ dsh --profile web web   # 或 dsh web
 ## License
 
 MIT
+
+## 说明
+
+由于本人是 Java 程序员，所以本项目由 **DeepSeek-V4-Pro-High** 完成，共花费 **36.62 元 / 5.39 美元**（涨价前）。可能存在许多 bug，请大家多多包容，并且可以使用 **Vibe-Coding** 本地修复 bug。本项目采取 **MIT** 协议开源。

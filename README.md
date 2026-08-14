@@ -70,10 +70,6 @@ dsh --profile web web   # or `dsh web`
 - Node ≥ 22.19 (official DSH requirement)
 - Official DSH runtime: `@deepseek-ai/dsh-base`, `@deepseek-ai/dsh-web-app` (the `@deepseek-ai/dsh-*` series is provided by DSH itself)
 
-## Develop / build
-
-See `打包与维护说明.md` for building from source, package renaming, backup, and publishing.
-
 ## License
 
 MIT

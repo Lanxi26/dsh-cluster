@@ -4,6 +4,8 @@ Cluster mode for **DeepSeek Harness** — a canvas node-graph for orchestrating 
 
 [中文文档](README.zh.md)
 
+![DSH Cluster Plugin](images/banner.png)
+
 ## The canvas
 
 ![Cluster canvas](images/board_en.png)

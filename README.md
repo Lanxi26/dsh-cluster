@@ -26,7 +26,7 @@ Cluster mode for **DeepSeek Harness** — a canvas node-graph for orchestrating 
   - `multi` — address it with `cluster_spawn` (a fresh instance each time).
   - `any` — either.
 - **Export / load** — export the graph **and** agent properties together (`.txt` JSON, v2), then load them elsewhere to restore agents and write them back to disk.
-- **Identity space** — optionally attach a disk directory to an agent; its persona is told to browse that space first.
+- **Identity space** — optionally attach a disk directory to an agent; its persona is told to browse that space first. Since the Agent panel on the canvas is intentionally simple, richer materials — Skills, scripts, long-term memory, personality files, `agent.md`, etc. — can live in each agent's own space.
 
 ## Install
 

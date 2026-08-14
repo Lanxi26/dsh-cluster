@@ -77,3 +77,7 @@ See `打包与维护说明.md` for building from source, package renaming, backu
 ## License
 
 MIT
+
+## Note
+
+The author is a Java programmer, so this project was completed by **DeepSeek-V4-Pro-High**, costing **36.62 RMB / 5.39 USD** (before the price increase). There may be many bugs — please be understanding, and feel free to fix bugs locally with **Vibe-Coding**. This project is open-sourced under the **MIT** license.

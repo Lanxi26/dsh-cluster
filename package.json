@@ -1,0 +1,24 @@
+{
+  "name": "@lanxi266/dsh-cluster-plugin",
+  "version": "0.1.0",
+  "description": "Cluster mode for DeepSeek Harness: canvas node-graph, multi-agent orchestration, and flow-constrained message routing",
+  "type": "module",
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "files": [
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "dependencies": {
+    "@lanxi266/dsh-cluster-agent-fs": "^0.1.0",
+    "@lanxi266/dsh-tool-cluster": "^0.1.0",
+    "@lanxi266/dsh-client-ui-cluster": "^0.1.0"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,0 +1,7 @@
+- insert:
+    - id: cluster-agent-fs
+      name: '@lanxi266/dsh-cluster-agent-fs'
+    - id: cluster-tools
+      name: '@lanxi266/dsh-tool-cluster'
+    - id: ui-cluster
+      name: '@lanxi266/dsh-client-ui-cluster'

@@ -4,6 +4,8 @@ DeepSeek Harness 的**集群模式**插件：用一个画布式节点图来编�
 
 [English](README.md)
 
+![DSH Cluster Plugin](images/banner.png)
+
 ## 画布
 
 ![集群画布](images/board_cn.png)
